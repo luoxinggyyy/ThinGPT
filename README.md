@@ -49,6 +49,9 @@ This project is inspired by the (https://github.com/yangjianxin1/ClipCap-Chinese
 - https://github.com/Morizeyao/GPT2-Chinese.git
 - https://github.com/rmokady/CLIP_prefix_caption
 
+- Connection
+- email: b22010034@s.upc.edu.cn
+
 
 
 
