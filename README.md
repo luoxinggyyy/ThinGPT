@@ -4,6 +4,16 @@
 ## Project profile
 The proposed project is based on the CLIP model and GPT2, drawing on the ideas of CLIPCAP and the network foundation framework, which aims to generate long text descriptions for rock flakes. It is worth noting that the results of the model generation are in both Chinese and English. Since the data set I used was in Chinese, the pre-trained model provided was also generated in Chinese. If you need to generate the English version directly, then the data set can be replaced in English.
 
+![result/images](0245.jpg)
+Chinese result
+```
+0245.jpg	鉴定结果是泥质呈纤维状、隐晶状等，大部分已绢云母化，分布欠均。硅质围绕颗粒分布。长石具粘土化或绢云母化。少见石、石、电气石、石、白钛矿等。碎屑长轴大致具定向性。砾石英砾石5%，呈次椭圆状，呈次为2-4.	鉴定结果是泥质呈纤维状、隐晶状等，大部分已绢云母化，分布较均，局部地方解石呈粉晶-细晶状，含铁。白云石呈粉晶-连晶状，含铁。硅质围绕颗粒分布。长石具粘土化或绢云母化。少见锆石、电气石、电气石、白钛矿等。
+```
+English result
+```
+0245.jpg  The identification results showed that the mud was fibrous, cryptocrystalline, etc., most of which had been sericitized and the distribution was uneven. Silica is distributed around the particles. Feldspar is clayified or sericitized. Rare stone, stone, tourmaline, stone, white titanium ore, etc. The major axis of the clast is roughly oriented. The gravel is 5%, which is subelliptic and 2-4. The identification results show that the mud is fibrous and cryptocrystalline, and most of it has been sericite, and the distribution is relatively uniform. The local calcite is powdery and fine crystalline, and contains iron. Dolomite is powdery - intercrystalline, containing iron. Silica is distributed around the particles. Feldspar is clayified or sericitized. Rare zircon, tourmaline, tourmaline, white titanium ore, etc.
+```
+
 
 ## Usage method
 ### Quick Start
