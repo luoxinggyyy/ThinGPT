@@ -21,7 +21,6 @@ def process_caption(file, test=False):
 
 
 if __name__ == '__main__':
-    # 将caption处理成统一格式
     result = []
     files = ['datasets/flickr_caption-train.txt', 'datasets/flickr_caption-val.txt', 'datasets/flickr_caption-test.txt']
     modes = [False, False, True]

@@ -28,7 +28,6 @@ class ThinGPTDataset(Dataset):
         else:
             save_path = join(os.path.dirname(clip_data_path), 'test.pkl')
 
-        # 加载缓存
         if os.path.isfile(save_path):
             with open(save_path, 'rb') as f:
                 self.clip_embeds, self.caption_ids_list, self.mask_list = pickle.load(f)

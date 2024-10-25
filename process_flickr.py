@@ -16,7 +16,7 @@ def main(args):
         lines = f.readlines()
 
     logger.info('len of captions：{}'.format(len(lines)))
-    image_id2embed = {}    # imageid到image embedding的映射
+    image_id2embed = {}  
     caption_list = []
 
     for i in trange(len(lines)):
@@ -24,9 +24,7 @@ def main(args):
         image_id, caption = line.split('\t')
 
         if image_id not in image_id2embed.keys():
-            # 加载caption对应的图片
             file = join(args.image_path, '{}.jpg'.format(image_id))
-            # 将图片编码成embedding
             image = io.imread(file)
             image = preprocess(Image.fromarray(image)).unsqueeze(0).to(device)
             with torch.no_grad():
