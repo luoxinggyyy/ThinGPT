@@ -1,4 +1,4 @@
-# Intelligent identification method of rock thin section based on multi-modal large language model
+# ThinGPT: describing rock thin section images with a multimodal large language model
 
 
 ## Project profile
@@ -61,6 +61,8 @@ This project is inspired by the (https://github.com/yangjianxin1/ClipCap-Chinese
 - https://github.com/rmokady/CLIP_prefix_caption
 
 - Connection
+- Xin Luo, Jianmeng Sun, Peng Chi, Ran Zhang, Ruikang Cui, Xinghua Ci and Wei Liu
+- China University of Petroleum (East China)
 - email: b22010034@s.upc.edu.cn
 
 
