@@ -53,13 +53,9 @@ bash scripts/train_finetune_gpt2.sh
 ```
 
 ## Acknowledgments
-This project is inspired by the (https://github.com/yangjianxin1/ClipCap-Chinese.git), thanks to the contribution of this project.
+This project is inspired by the (https://github.com/yangjianxin1/ClipCap-Chinese.git; https://github.com/openai/CLIP; https://github.com/Morizeyao/GPT2-Chinese.git; https://github.com/Morizeyao/GPT2-Chinese.git), thanks to the contribution of this project.
 
-## REFERENCE
-- https://github.com/openai/CLIP
-- https://github.com/Morizeyao/GPT2-Chinese.git
-- https://github.com/rmokady/CLIP_prefix_caption
-
+## Connection
 - Connection
 - Xin Luo, Jianmeng Sun, Peng Chi, Ran Zhang, Ruikang Cui, Xinghua Ci and Wei Liu
 - China University of Petroleum (East China)
