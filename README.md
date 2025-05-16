@@ -1,5 +1,5 @@
 # ThinGPT: describing rock thin section images with a multimodal large language model
-- Under Review at _Petroleum Science
+ ·Under Review at Petroleum Science·
 
 ## Project profile
 The proposed project is based on the CLIP model and GPT2, drawing on the ideas of CLIPCAP and the network foundation framework, which aims to generate long text descriptions for rock flakes. It is worth noting that the results of the model generation are in both Chinese and English. Since the data set I used was in Chinese, the pre-trained model provided was also generated in Chinese. If you need to generate the English version directly, then the data set can be replaced in English.
