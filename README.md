@@ -1,4 +1,4 @@
-# ThinGPT: describing rock thin section images with a multimodal large language model
+# ThinGPT: describing sedimentary rock thin section images with a multimodal large language model
 __Under Review__ at _Petroleum Science_
 
 ## Project profile
